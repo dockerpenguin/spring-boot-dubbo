@@ -1,5 +1,7 @@
 # **Spring boot dubbo demo**
 
+一个springboot下使用dubbo框架的例子。
+
 主要内容：
 
 1、pom依赖
